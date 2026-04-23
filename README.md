@@ -51,7 +51,7 @@ Especialista en diseño e implementación de arquitecturas geoespaciales escalab
 
 ## 📫 Contacto
 
-- LinkedIn: https://www.linkedin.com/marceloctorres
+- LinkedIn: https://www.linkedin.com/in/marceloctorres
 - Email: mtorres@esri.co
 - Github: @mtorres-esri-co
 
